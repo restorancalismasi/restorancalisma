@@ -18,7 +18,7 @@
     </parent>
 
     <properties>
-        <java.version>23</java.version> <!-- Java 23 kullanıyorsan bu doğru -->
+        <java.version>17</java.version> <!-- Java 17 kullanıyorsan bu doğru -->
     </properties>
 
     <dependencies>
