@@ -68,3 +68,4 @@ public class AdminUrunController {
     }
 
 }
+// admin ürün controller 
