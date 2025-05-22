@@ -48,3 +48,10 @@ public class RequestUtil {
     }
 
 }
+/*
+ * This class is used to manage the request and session attributes.
+ * It provides methods to check if the user is logged in, set the login status,
+ * and get the session ID.
+ *
+ * @author Sadakazam
+ */
