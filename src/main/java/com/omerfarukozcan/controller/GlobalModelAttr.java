@@ -24,4 +24,4 @@ public class GlobalModelAttr {
     }
 
 }
-// global
+// global model attribute
