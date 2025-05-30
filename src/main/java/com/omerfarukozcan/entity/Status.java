@@ -1,9 +1,9 @@
 package com.omerfarukozcan.entity;
 
 public enum Status {
-    ACTIVE("Hazirlaniyor"),
+    ACTIVE("Hazırlanıyor"),
     DELETED("İptal Edildi"),
-    COMPLETED("Tamamlandi");
+    COMPLETED("Tamamlandı");
 
     private final String desc;
 

@@ -48,7 +48,7 @@ public class DataInit {
             urunRepository.save(urun);
         } catch (Exception e) {
             log.error("db init failed");
-        }
-    }
+        }
+    }
 
 }

@@ -16,6 +16,6 @@ public interface OrderRepository extends JpaRepository<OrderModel, Long> {
 
     List<OrderModel> findAllByOrderCodeAndStatusOrderByUpdatedAtDesc(String orderCode, Status status);
 
-    List<OrderModel> findAllByStatusOrderByUpdatedAtDesc(Status status);
+    List<OrderModel> findAllByStatusOrderByUpdatedAtDesc(Status status);
 
 }

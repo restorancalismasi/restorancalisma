@@ -11,6 +11,6 @@ public interface CartRepository extends JpaRepository<CartModel, Long> {
 
     CartModel getFirstByUrunIdAndSessionIdOrderByUpdatedAtDesc(Long urunId, String sessionId);
 
-    List<CartModel> findAllBySessionIdOrderByUpdatedAtDesc(String sessionId);
+    List<CartModel> findAllBySessionIdOrderByUpdatedAtDesc(String sessionId);
 
 }

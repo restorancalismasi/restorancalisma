@@ -11,6 +11,6 @@ public interface UrunRepository extends JpaRepository<UrunModel, Long> {
 
     List<UrunModel> findAllByOrderByUpdatedAtDesc();
 
-    List<UrunModel> findAllByCategoryOrderByUpdatedAtDesc(String category);
+    List<UrunModel> findAllByCategoryOrderByUpdatedAtDesc(String category);
 
 }
