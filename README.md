@@ -64,7 +64,7 @@ http://localhost:8080
 
 ### 5. Katkıda Bulunanlar
 
-###### -> 230202139---Mehmet Osmanlar(Feature/controller,Feature/entity,Feature/model )
+### -> 230202139---Mehmet Osmanlar(Feature/controller,Feature/entity,Feature/model )
 
 1. Business Layer: OOP Components
 
@@ -94,7 +94,7 @@ RequestUtil.java sınıfı ve getSession() ile oturum yönetimi yapılmaktadır.
 
 Kullanıcıya özel session ile sepet tanımlanmakta ve güncellenmektedir.
 
-###### -> 220202015---Taruk Ertuğrul Özkul(Feature/repository,Feature/service,Feature/util )
+### -> 220202015---Taruk Ertuğrul Özkul(Feature/repository,Feature/service,Feature/util )
 
 1. Business Layer: OOP Components
 
@@ -119,7 +119,7 @@ Kullanıcı kimliği ve sepet bilgisi HttpSession üzerinden takip ediliyor, ses
 
 CommonUtil.java gibi yardımcı sınıflar session yönetimi içeriyor.
 
-###### -> 230202130---Ömer Faruk Özcan(main, develop)
+### -> 230202130---Ömer Faruk Özcan(main, develop)
 
 1. Web Service Implementation
    @Controller anotasyonlu sınıflar bulunmakta.
