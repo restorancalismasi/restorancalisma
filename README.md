@@ -64,6 +64,14 @@ http://localhost:8080
 
 ### 5. Katkıda Bulunanlar
 
+###### 230202139---Mehmet Osmanlar(https://github.com/Sadakazam----Ekip Üyesi)
+
+###### 220202015---Taruk Ertuğrul Özkul(https://github.com/tarikkgit---Ekip Üyesi)
+
+###### 230202130---Ömer Faruk Özcan(https://github.com/omerfrkozcn----Ekip Lideri)
+
+)
+
 ### -> 230202139---Mehmet Osmanlar(Feature/controller,Feature/entity,Feature/model )
 
 1. Business Layer: OOP Components
