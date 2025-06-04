@@ -34,15 +34,17 @@ https://github.com/restorancalismasi/restorancalisma.git
 
 ### 3. Projeyi Derle
 
--bash
--mvn clean package
+-proje dosyası açılıp terminalde aşağıdaki kod çalıştırılır.
+
+###### -mvn clean package
 
 ---
 
 ### 4. Docker Container Başlat
 
--docker-compose down -v # (önceki container varsa sil)
--docker-compose up --build
+###### -docker-compose down -v # (önceki container varsa sil)
+
+###### -docker-compose up --build
 
 ---
 
