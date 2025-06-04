@@ -31,7 +31,7 @@ public class DataInit {
             final UserModel user = new UserModel();
             user.setId(13L);
             user.setEmail("admin@restoran-otomasyon.com");
-            user.setPassword(encodePass("Admin0*"));
+            user.setPassword(encodePass("Admin0"));
             user.setLang("tr");
             user.setEnabled(true);
 
