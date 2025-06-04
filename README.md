@@ -63,6 +63,8 @@ http://localhost:8080
 
 ### 5. Katkıda Bulunanlar
 
--> 230202130---Ömer Faruk Özcan
--> 230202139---Mehmet Osmanlar
--> 220202015---Taruk Ertuğrul Özkul
+###### -> 230202130---Ömer Faruk Özcan
+
+###### -> 230202139---Mehmet Osmanlar
+
+###### -> 220202015---Taruk Ertuğrul Özkul
