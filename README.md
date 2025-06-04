@@ -34,15 +34,15 @@ https://github.com/restorancalismasi/restorancalisma.git
 
 ### 3. Projeyi Derle
 
-bash
-mvn clean package
+-bash
+-mvn clean package
 
 ---
 
 ### 4. Docker Container Başlat
 
-docker-compose down -v # (önceki container varsa sil)
-docker-compose up --build
+-docker-compose down -v # (önceki container varsa sil)
+-docker-compose up --build
 
 ---
 
@@ -54,13 +54,13 @@ http://localhost:8080
 
 ### 5. Admin Bilgileri
 
-Email :"admin@restoran-otomasyon.com"
-Parola:'Admin0\*'
+->Email :"admin@restoran-otomasyon.com"
+->Parola:'Admin0\*'
 
 ---
 
 ### 5. Katkıda Bulunanlar
 
-230202130---Ömer Faruk Özcan
-230202139---Mehmet Osmanlar
-220202015---Taruk Ertuğrul Özkul
+-> 230202130---Ömer Faruk Özcan
+-> 230202139---Mehmet Osmanlar
+-> 220202015---Taruk Ertuğrul Özkul
