@@ -56,8 +56,9 @@ http://localhost:8080
 
 ### 5. Admin Bilgileri
 
-->Email :"admin@restoran-otomasyon.com"
-->Parola:'Admin0\*'
+###### ->Email :"admin@restoran-otomasyon.com"
+
+###### ->Parola:'Admin0\*'
 
 ---
 
